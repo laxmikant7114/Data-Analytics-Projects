@@ -38,3 +38,30 @@ Explore the dashboard and interact with filters to gain insights.
 ✅ Job openings by location & company
 ✅ Ranking of companies based on hiring trends
 ✅ Data-driven insights for business decisions
+
+2. 📊 Real-time Employee Work Tracking System
+🔍 Overview
+This real-time tracking system helps organizations monitor employee work progress, track company database updates, and analyze employee productivity using Power BI.
+
+🚀 Key Features
+Real-time Data Tracking: Connected Google Sheets to Power BI for live updates.
+
+Company Profile Verification: Categorized company records as active/inactive.
+
+Employee Productivity Monitoring: Visualized individual employee work progress using interactive dashboards.
+
+Task Assignment & Quality Control: Assigned tasks to employees and tracked quality of work.
+
+🛠 Technologies Used
+Power BI
+
+Google Sheets Integration
+
+Data Analytics & Visualization
+
+📥 Installation & Usage
+Set up a Google Sheets data pipeline.
+
+Connect the dataset with Power BI Desktop.
+
+Use the dashboard to track real-time work progress.
