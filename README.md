@@ -1,4 +1,9 @@
-📊 Pune IT Service Company Data Analysis using Power BI
+📊 Data Analytics Projects
+Welcome to my Data Analytics Projects repository! 🚀 This repository showcases my work in data visualization, business intelligence, and analytics using Power BI and Excel. Each project focuses on solving real-world business challenges through data-driven insights.
+
+📂 Projects Included
+
+1. 📊 Pune IT Service Company Data Analysis using Power BI
 🔍 Overview
 This project involves analyzing data from IT service companies in Pune to identify hiring trends, job openings, and key business insights. The data was collected, cleaned, and visualized using Power BI to assist businesses in making informed decisions.
 
